@@ -9,6 +9,7 @@ export TF_VAR_domainName="alotoflords.pp.ua"
 export TF_VAR_cloudflare_api_token="token"
 ```
 або terraform.tfvars використати
+
 3.
  Initialize Terraform:
 ```bash
